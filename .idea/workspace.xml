@@ -9,20 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfb20020-5ac8-4f5f-907a-d7034c41fc8e" name="Changes" comment="">
+    <list default="true" id="dfb20020-5ac8-4f5f-907a-d7034c41fc8e" name="Changes" comment="trying to make pull request">
       <change beforePath="$PROJECT_DIR$/.github/workflows/quest_ci.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/quest_ci.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/Story.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/Story.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/servlet/StartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/servlet/StartServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/servlet/StoryServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/annVald/javarush/quest/servlet/StoryServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/finish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/finish.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/story.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/story.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NodeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,8 +231,16 @@
       <workItem from="1662577875972" duration="6177000" />
       <workItem from="1662723609797" duration="18102000" />
       <workItem from="1662826956395" duration="28470000" />
-      <workItem from="1663425302248" duration="30545000" />
+      <workItem from="1663425302248" duration="32737000" />
     </task>
+    <task id="LOCAL-00001" summary="trying to make pull request">
+      <created>1663516556703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663516556703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,5 +256,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying to make pull request" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to make pull request" />
   </component>
 </project>
